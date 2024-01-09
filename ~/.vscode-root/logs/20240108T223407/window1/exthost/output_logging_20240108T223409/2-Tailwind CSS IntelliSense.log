@@ -1,7 +1,0 @@
-[Global] Creating projects: [{"folder":"/home/anurgaliyev/Desktop/qum","configPath":"/home/anurgaliyev/Desktop/qum/tailwind.config.ts","isUserConfigured":false,"documentSelector":[{"pattern":"/home/anurgaliyev/Desktop/qum/tailwind.config.ts","priority":0},{"pattern":"/home/anurgaliyev/Desktop/qum/**","priority":3}]}]
-[Global] Adding watch patterns: /home/anurgaliyev/Desktop/qum/tailwind.config.ts, /home/anurgaliyev/Desktop/qum
-[tailwind.config.ts] Initializing...
-[tailwind.config.ts] Loaded Tailwind CSS config file: /home/anurgaliyev/Desktop/qum/tailwind.config.ts
-[tailwind.config.ts] Loaded postcss v8.4.33: /home/anurgaliyev/Desktop/qum/node_modules/postcss
-[tailwind.config.ts] Loaded tailwindcss v3.4.1: /home/anurgaliyev/Desktop/qum/node_modules/tailwindcss
-[tailwind.config.ts] Building...
